@@ -2,7 +2,7 @@
 
 ConU III - helping old people since 1999
 
-##Inspiration
+##Inspiration##
 Mental health is often put behind physical health, and with the senior population, that prioritization is even more prominent. Thus, we wanted to target the largest source of negative impact on the mental health of the aging population - loneliness.The focus is placed on mental health because of the vast resources and advancing technology for many physical illnesses, but not enough one-on-one support for what matters - human interaction.
 
 On the other hand, a lot of what is connecting the younger generation together is social media, which due to the lack of technological literacy, the senior population may not integrate into such systems as well due to many reasons including vision impairment, lack of learning resources, and lack of interest. Thus we also integrated the use of text to voice and voice to text, as well as emotion voice detection into our project - Clarety.
